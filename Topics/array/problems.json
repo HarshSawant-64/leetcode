@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array",
+    "tagId": "5"
+  },
+  "updatedAt": "2026-10-28T18:07:30.169Z",
+  "problems": [
+    {
+      "frontendId": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "slug": "minimum-positive-sum-subarray",
+      "problemName": "3364-minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+      "folderPath": "3364-minimum-positive-sum-subarray/",
+      "readmePath": "3364-minimum-positive-sum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3364-minimum-positive-sum-subarray.java",
+          "path": "3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.java",
+          "sha": "c5a9a4fb5f9298fc57b2c5def6c394edb7e50476",
+          "lastSyncedAt": "2026-10-28T18:07:30.169Z"
+        }
+      ]
+    }
+  ]
+}
