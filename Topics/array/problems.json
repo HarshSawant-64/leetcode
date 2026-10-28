@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-28T18:11:30.187Z",
+  "updatedAt": "2026-10-28T18:11:40.374Z",
   "problems": [
     {
       "frontendId": "1",
@@ -324,6 +324,26 @@
           "path": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.java",
           "sha": "8d1ff737383cdd044b3a45e6d9b5e267fb34fcb8",
           "lastSyncedAt": "2026-10-28T18:09:17.644Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1572",
+      "title": "Matrix Diagonal Sum",
+      "slug": "matrix-diagonal-sum",
+      "problemName": "1572-matrix-diagonal-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-diagonal-sum/",
+      "folderPath": "1572-matrix-diagonal-sum/",
+      "readmePath": "1572-matrix-diagonal-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1572-matrix-diagonal-sum.java",
+          "path": "1572-matrix-diagonal-sum/1572-matrix-diagonal-sum.java",
+          "sha": "5006792f29c5f8b30fabaf4895d6411e1c2ccd72",
+          "lastSyncedAt": "2026-10-28T18:11:40.374Z"
         }
       ]
     },
