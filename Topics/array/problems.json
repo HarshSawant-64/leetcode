@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-28T18:10:06.836Z",
+  "updatedAt": "2026-10-28T18:10:24.264Z",
   "problems": [
     {
       "frontendId": "18",
@@ -104,6 +104,26 @@
           "path": "0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.java",
           "sha": "f4b8c047d0eb0b84628e687b1aa09106b56c4ca6",
           "lastSyncedAt": "2026-10-28T18:09:25.150Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "867",
+      "title": "Transpose Matrix",
+      "slug": "transpose-matrix",
+      "problemName": "0867-transpose-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transpose-matrix/",
+      "folderPath": "0867-transpose-matrix/",
+      "readmePath": "0867-transpose-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0867-transpose-matrix.java",
+          "path": "0867-transpose-matrix/0867-transpose-matrix.java",
+          "sha": "8b9323963f642954957b15d17014b14bfa3e9ebd",
+          "lastSyncedAt": "2026-10-28T18:10:24.264Z"
         }
       ]
     },
