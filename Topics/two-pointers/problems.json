@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-28T18:11:00.897Z",
+  "updatedAt": "2026-10-28T18:11:07.851Z",
   "problems": [
     {
       "frontendId": "15",
@@ -184,6 +184,26 @@
           "path": "0344-reverse-string/0344-reverse-string.java",
           "sha": "abddc801d35c23d384efc16f9211a5982828b826",
           "lastSyncedAt": "2026-10-28T18:08:38.661Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "977",
+      "title": "Squares of a Sorted Array",
+      "slug": "squares-of-a-sorted-array",
+      "problemName": "0977-squares-of-a-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+      "folderPath": "0977-squares-of-a-sorted-array/",
+      "readmePath": "0977-squares-of-a-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0977-squares-of-a-sorted-array.java",
+          "path": "0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.java",
+          "sha": "1435f32803126ba16a5fbd160c3f99c6e0c4914c",
+          "lastSyncedAt": "2026-10-28T18:11:07.851Z"
         }
       ]
     }
