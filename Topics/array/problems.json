@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-28T18:07:30.169Z",
+  "updatedAt": "2026-10-28T18:08:13.486Z",
   "problems": [
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "1004-max-consecutive-ones-iii/",
+      "readmePath": "1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1004-max-consecutive-ones-iii.java",
+          "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java",
+          "sha": "79ef040ee1e7d915207861dda6932964af2058db",
+          "lastSyncedAt": "2026-10-28T18:08:13.486Z"
+        }
+      ]
+    },
     {
       "frontendId": "3364",
       "title": "Minimum Positive Sum Subarray ",
