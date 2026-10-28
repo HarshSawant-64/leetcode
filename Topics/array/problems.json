@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-28T18:10:24.264Z",
+  "updatedAt": "2026-10-28T18:10:35.909Z",
   "problems": [
+    {
+      "frontendId": "16",
+      "title": "3Sum Closest",
+      "slug": "3sum-closest",
+      "problemName": "0016-3sum-closest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
+      "folderPath": "0016-3sum-closest/",
+      "readmePath": "0016-3sum-closest/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0016-3sum-closest.java",
+          "path": "0016-3sum-closest/0016-3sum-closest.java",
+          "sha": "ecd9e8b020d44b2f63974dcafcc95a8a25de2959",
+          "lastSyncedAt": "2026-10-28T18:10:35.909Z"
+        }
+      ]
+    },
     {
       "frontendId": "18",
       "title": "4Sum",
