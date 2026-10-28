@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation",
+    "tagId": "61055"
+  },
+  "updatedAt": "2026-10-28T18:07:59.437Z",
+  "problems": [
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "0412-fizz-buzz/",
+      "readmePath": "0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0412-fizz-buzz.java",
+          "path": "0412-fizz-buzz/0412-fizz-buzz.java",
+          "sha": "cb17177c62c13f9d88b0cfc135ffd0b3b6b08c9a",
+          "lastSyncedAt": "2026-10-28T18:07:59.437Z"
+        }
+      ]
+    }
+  ]
+}
