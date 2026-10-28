@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-28T18:07:59.437Z",
+  "updatedAt": "2026-10-28T18:08:29.119Z",
   "problems": [
     {
       "frontendId": "76",
@@ -44,6 +44,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.java",
           "sha": "cb17177c62c13f9d88b0cfc135ffd0b3b6b08c9a",
           "lastSyncedAt": "2026-10-28T18:07:59.437Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "424",
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "problemName": "0424-longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "folderPath": "0424-longest-repeating-character-replacement/",
+      "readmePath": "0424-longest-repeating-character-replacement/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0424-longest-repeating-character-replacement.java",
+          "path": "0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.java",
+          "sha": "02b8dd3569b3e77f881e26d4e20b9e3256dcfab5",
+          "lastSyncedAt": "2026-10-28T18:08:29.119Z"
         }
       ]
     }
